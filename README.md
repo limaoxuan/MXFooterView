@@ -1,5 +1,5 @@
 # MXFooterView
-This is a customs FooterView
+This is a customs loading footer. I call it by MXFooterView.
 
 
 
